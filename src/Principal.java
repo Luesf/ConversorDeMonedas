@@ -63,9 +63,6 @@ public class Principal {
                             +valorAConvertir * consulta.buscaMoneda("JPY", "GTQ")
                             .conversion_rate()+" GTQ.");
                     break;
-                case 7:
-                    System.out.println("Gracias por usar el conversor! Saliendo del programa...");
-                    break;
                 default:
                     System.out.println("Opcion invalida o no incluida en el menu.");
             }
