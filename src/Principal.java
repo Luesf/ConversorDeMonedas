@@ -25,6 +25,10 @@ public class Principal {
         while(seleccion != 7){
             System.out.println(menu);
             seleccion = lectura.nextInt();
+            if (seleccion == 7){
+                System.out.println("Gracias por usar el conversor! Saliendo del programa...");
+                break;
+            }
             System.out.println("Ingrese el valor a convertir: ");
             var valorAConvertir = lectura.nextInt();
 
