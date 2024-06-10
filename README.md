@@ -1,3 +1,3 @@
-<em> Conversor de Monedas </em>
+<h1> Proyecto Conversor de Monedas </h1>
 
-<h1> Proyecto de conversion de monedas centrado en el Quetzal de Guatemala.</h1>
+<em> Proyecto de conversion de monedas principalmente para la moneda 'Quetzal' de Guatemala. </em>
