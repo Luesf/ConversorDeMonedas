@@ -1,7 +1,7 @@
 <h1> Proyecto Conversor de Monedas </h1>
 
 <body> Proyecto de conversión de monedas principalmente para la moneda 'Quetzal' de Guatemala. 
-/n
+
 ![Static Badge](https://img.shields.io/badge/Quetzal-Dolar-green)
 ![Static Badge](https://img.shields.io/badge/Dolar-Quetzal-green)
 ![Static Badge](https://img.shields.io/badge/Quetzal-Euro-blue)
