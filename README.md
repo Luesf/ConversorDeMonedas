@@ -5,7 +5,11 @@
 ![Static Badge](https://img.shields.io/badge/Quetzal-Dolar-green)
 <br>
 ![Static Badge](https://img.shields.io/badge/Dolar-Quetzal-green)
-<p>![Static Badge](https://img.shields.io/badge/Quetzal-Euro-blue)</p>
-<p>![Static Badge](https://img.shields.io/badge/Euro-Quetzal-blue)</p>
-<p>![Static Badge](https://img.shields.io/badge/Quetzal-Yen-red)</p>
-<p>![Static Badge](https://img.shields.io/badge/Yen-Quetzal-red)</p>
+<br>
+![Static Badge](https://img.shields.io/badge/Quetzal-Euro-blue)
+<br>
+![Static Badge](https://img.shields.io/badge/Euro-Quetzal-blue)
+<br>
+![Static Badge](https://img.shields.io/badge/Quetzal-Yen-red)
+<br>
+![Static Badge](https://img.shields.io/badge/Yen-Quetzal-red)
