@@ -2,4 +2,4 @@
 
 <body> Proyecto de conversión de monedas principalmente para la moneda 'Quetzal' de Guatemala. </body>
 
-https://img.shields.io/badge/Quetzal-Dolar-green
+![Static Badge](https://img.shields.io/badge/Quetzal-Dolar-green)
